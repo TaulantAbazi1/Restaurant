@@ -1,0 +1,58 @@
+
+
+
+
+element.style {
+    width: 6215%;
+    position: relative;
+    visibility: visible;
+    animation-duration: 2s;
+    animation-delay: 0.4s;
+    animation-name: fadeIn;
+    transition-duration: 0.5s;
+    transform: translate3d(-2590px, 0px, 0px);
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+style attribute {
+    float: left;
+    list-style: none;
+    position: relative;
+    width: 510px;
+}
+style attribute {
+    float: left;
+    list-style: none;
+    position: relative;
+    width: 510px;
+}
+style attribute {
+    width: 6215%;
+    position: relative;
+    visibility: visible;
+    animation-duration: 2s;
+    animation-delay: 0.4s;
+    animation-name: fadeIn;
+    transition-duration: 0.2s;
+    transform: translate3d(-2590px, 0px, 0px);
+}
+.quote-image {
+    margin-bottom: 30px;
+}
+style attribute {
+    float: left;
+    list-style: none;
+    position: relative;
+    width: 570px;
+}
+
+li {
+    list-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
